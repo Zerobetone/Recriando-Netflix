@@ -8,7 +8,7 @@ Esse é um projeto desenvolvido no Workshop da DIO - Recriando a interface da Ne
  
 ## API"s utilizdas :file_cabinet:	
 
-       <li>The Movie DB: https://www.themoviedb.org/documentation/api?language=pt-BR
+ -The Movie DB: https://www.themoviedb.org/documentation/api?language=pt-BR
  
  ## Ilustração 	:framed_picture:
  ![image](https://user-images.githubusercontent.com/84295963/207971101-ba529206-b9fe-4324-8673-f348387bb8c5.png)
